@@ -54,7 +54,7 @@ productsDiv.addEventListener("click", (e) => {
   }
   //DİĞER YERLER TIKLANDIĞINDA
   else {
-    alert("other element clicked");
+    alert(" other element clicked ");
   }
 });
 
